@@ -150,3 +150,4 @@ nvim() {
 alias ls="lsd"
 alias dnf="dnf5"
 alias rm="rm -i"
+export PATH="$PATH:$HOME/.local/share/coursier/bin"
